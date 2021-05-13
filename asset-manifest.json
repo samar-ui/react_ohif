@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_ohif/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react_ohif/static/js/main.a292a708.chunk.js",
+    "main.js.map": "/react_ohif/static/js/main.a292a708.chunk.js.map",
+    "runtime-main.js": "/react_ohif/static/js/runtime-main.b526fd46.js",
+    "runtime-main.js.map": "/react_ohif/static/js/runtime-main.b526fd46.js.map",
+    "static/js/2.fe546a02.chunk.js": "/react_ohif/static/js/2.fe546a02.chunk.js",
+    "static/js/2.fe546a02.chunk.js.map": "/react_ohif/static/js/2.fe546a02.chunk.js.map",
+    "static/js/3.6b2302fe.chunk.js": "/react_ohif/static/js/3.6b2302fe.chunk.js",
+    "static/js/3.6b2302fe.chunk.js.map": "/react_ohif/static/js/3.6b2302fe.chunk.js.map",
+    "index.html": "/react_ohif/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react_ohif/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.fe546a02.chunk.js.LICENSE.txt": "/react_ohif/static/js/2.fe546a02.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react_ohif/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b526fd46.js",
+    "static/js/2.fe546a02.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a292a708.chunk.js"
+  ]
+}
